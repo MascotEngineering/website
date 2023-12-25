@@ -1,6 +1,3 @@
-/* Colors used: Light blue (#E9F1FA), bright blue (#00ABE4), white (#FFFFFF) */
-
-/* Colors used: Dark classic blue (#0A1828), turquoise (#178582), gold (#BFA181) */
 *{
   scroll-behavior: smooth;
 }
@@ -106,6 +103,10 @@
 
 * {
   font-family: Nunito, sans-serif;
+  box-sizing: border-box;
+
+    /* font-family: Nunito, sans-serif; */
+    color: white;
 }
 
 .responsive-container-block {
